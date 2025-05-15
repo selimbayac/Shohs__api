@@ -1,0 +1,44 @@
+# Shosh.API – ASP.NET Core Web API
+(Tamamı bitmedi ama bu hali bile iş görür )
+Bu proje, Shosh platformunun backend tarafını oluşturur.  
+Kullanıcıların başlıklar altında entry ve yorum yazabildiği, sosyal özellikler içeren bir API mimarisi sağlar.
+
+## 🔧 Teknolojiler
+- ASP.NET Core Web API (.NET 8)
+- PostgreSQL
+- JWT Authentication
+- Role-based Authorization (Admin, User)
+- Entity Framework Core
+- Swagger
+
+## 🚀 Özellikler
+- Kullanıcı kayıt/giriş sistemi (JWT ile token döner)
+- Role bazlı yetkilendirme (Admin, Moderatör gibi rollere özel endpoint’ler)
+- Entry sistemi: başlığa entry yazma, güncelleme, silme
+- Yorum sistemi: entry'lere yorum yazma/silme
+- Beğeni / Dislike sistemi
+- Entry şikayet etme, moderasyon mekanizması
+- Admin paneli için hazır endpoint'ler (ban, sil, uyarı vs.)
+- Takip sistemi (kullanıcılar arası)
+
+## 📁 Katmanlar
+- `Controllers/` → API endpoint'leri
+- `Services/` → İş mantığı
+- `Repositories/` → Veritabanı işlemleri (Entity Framework)
+- `DTOs/` → API ile taşınan modeller
+- `Entities/` → Veritabanı tabloları
+- `ViewModels/` → Giriş/çıkış request modelleri
+
+## 📡 Swagger Kullanımı
+1. Uygulamayı çalıştır.
+2. Tarayıcıdan şu adrese git:  
+   `https://localhost:5001/swagger`  
+3. Tüm endpoint'ler buradan test edilebilir.
+
+## 🔐 JWT Kullanımı
+- Kayıt ve giriş işlemi sonrası token döner.
+- Bu token, Authorization header’da taşınarak admin/user yetkili işlemler yapılabilir.
+
+### Örnek Header:
+```http
+Authorization: Bearer <token>
