@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "dN8K3SXdS8XCxJbzRnIl0rT7NBnhZ2zyTvt8qtwsIUo=",
+  "Source": "Shosh.API",
+  "BasePath": "_content/Shosh.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

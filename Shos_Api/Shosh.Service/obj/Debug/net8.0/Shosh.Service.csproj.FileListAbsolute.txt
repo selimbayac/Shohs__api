@@ -1,0 +1,17 @@
+E:\Masaüstü\Shos_Api\Shosh.Service\obj\Debug\net8.0\Shosh.Service.csproj.AssemblyReference.cache
+E:\Masaüstü\Shos_Api\Shosh.Service\obj\Debug\net8.0\Shosh.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\Masaüstü\Shos_Api\Shosh.Service\obj\Debug\net8.0\Shosh.Service.AssemblyInfoInputs.cache
+E:\Masaüstü\Shos_Api\Shosh.Service\obj\Debug\net8.0\Shosh.Service.AssemblyInfo.cs
+E:\Masaüstü\Shos_Api\Shosh.Service\obj\Debug\net8.0\Shosh.Service.csproj.CoreCompileInputs.cache
+E:\Masaüstü\Shos_Api\Shosh.Service\bin\Debug\net8.0\Shosh.Service.deps.json
+E:\Masaüstü\Shos_Api\Shosh.Service\bin\Debug\net8.0\Shosh.Service.dll
+E:\Masaüstü\Shos_Api\Shosh.Service\bin\Debug\net8.0\Shosh.Service.pdb
+E:\Masaüstü\Shos_Api\Shosh.Service\bin\Debug\net8.0\Shosh.Core.dll
+E:\Masaüstü\Shos_Api\Shosh.Service\bin\Debug\net8.0\Shosh.Data.dll
+E:\Masaüstü\Shos_Api\Shosh.Service\bin\Debug\net8.0\Shosh.Core.pdb
+E:\Masaüstü\Shos_Api\Shosh.Service\bin\Debug\net8.0\Shosh.Data.pdb
+E:\Masaüstü\Shos_Api\Shosh.Service\obj\Debug\net8.0\Shosh.Se.66AA9E31.Up2Date
+E:\Masaüstü\Shos_Api\Shosh.Service\obj\Debug\net8.0\Shosh.Service.dll
+E:\Masaüstü\Shos_Api\Shosh.Service\obj\Debug\net8.0\refint\Shosh.Service.dll
+E:\Masaüstü\Shos_Api\Shosh.Service\obj\Debug\net8.0\Shosh.Service.pdb
+E:\Masaüstü\Shos_Api\Shosh.Service\obj\Debug\net8.0\ref\Shosh.Service.dll

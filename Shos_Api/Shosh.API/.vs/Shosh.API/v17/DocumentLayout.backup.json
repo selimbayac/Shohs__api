@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Masa\u00FCst\u00FC\\Shos_Api\\Shosh.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC709E9-9271-4E13-A529-8294C4DDD7A9}|Shosh.API.csproj|e:\\masa\u00FCst\u00FC\\shos_api\\shosh.api\\controllers\\entrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC709E9-9271-4E13-A529-8294C4DDD7A9}|Shosh.API.csproj|solutionrelative:controllers\\entrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC69AA9-B8F4-491B-ABDB-4224AFA27217}|..\\Shosh.Service\\Shosh.Service.csproj|e:\\masa\u00FCst\u00FC\\shos_api\\shosh.service\\service\\entryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC69AA9-B8F4-491B-ABDB-4224AFA27217}|..\\Shosh.Service\\Shosh.Service.csproj|e:\\masa\u00FCst\u00FC\\shos_api\\shosh.service\\iservice\\ientryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{255196A7-0FF7-4F56-906F-441632F8FB98}|..\\Shosh.Data\\Shosh.Data.csproj|e:\\masa\u00FCst\u00FC\\shos_api\\shosh.data\\repository\\entryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288A81D0-4618-4847-99A8-BE5584880DF8}|..\\Shosh.Core\\Shosh.Core.csproj|e:\\masa\u00FCst\u00FC\\shos_api\\shosh.core\\entities\\entry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC69AA9-B8F4-491B-ABDB-4224AFA27217}|..\\Shosh.Service\\Shosh.Service.csproj|e:\\masa\u00FCst\u00FC\\shos_api\\shosh.service\\service\\likeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC69AA9-B8F4-491B-ABDB-4224AFA27217}|..\\Shosh.Service\\Shosh.Service.csproj|e:\\masa\u00FCst\u00FC\\shos_api\\shosh.service\\iservice\\ilikeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC69AA9-B8F4-491B-ABDB-4224AFA27217}|..\\Shosh.Service\\Shosh.Service.csproj|e:\\masa\u00FCst\u00FC\\shos_api\\shosh.service\\dto\\entrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{255196A7-0FF7-4F56-906F-441632F8FB98}|..\\Shosh.Data\\Shosh.Data.csproj|e:\\masa\u00FCst\u00FC\\shos_api\\shosh.data\\repository\\likerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC709E9-9271-4E13-A529-8294C4DDD7A9}|Shosh.API.csproj|e:\\masa\u00FCst\u00FC\\shos_api\\shosh.api\\controllers\\topiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC709E9-9271-4E13-A529-8294C4DDD7A9}|Shosh.API.csproj|solutionrelative:controllers\\topiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{255196A7-0FF7-4F56-906F-441632F8FB98}|..\\Shosh.Data\\Shosh.Data.csproj|e:\\masa\u00FCst\u00FC\\shos_api\\shosh.data\\repository\\topicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC69AA9-B8F4-491B-ABDB-4224AFA27217}|..\\Shosh.Service\\Shosh.Service.csproj|e:\\masa\u00FCst\u00FC\\shos_api\\shosh.service\\service\\topicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC69AA9-B8F4-491B-ABDB-4224AFA27217}|..\\Shosh.Service\\Shosh.Service.csproj|e:\\masa\u00FCst\u00FC\\shos_api\\shosh.service\\iservice\\itopicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{255196A7-0FF7-4F56-906F-441632F8FB98}|..\\Shosh.Data\\Shosh.Data.csproj|e:\\masa\u00FCst\u00FC\\shos_api\\shosh.data\\irepository\\itopicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1341653452:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:662295996:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ILikeService.cs",
+              "DocumentMoniker": "E:\\Masa\u00FCst\u00FC\\Shos_Api\\Shosh.Service\\IService\\ILikeService.cs",
+              "RelativeDocumentMoniker": "..\\Shosh.Service\\IService\\ILikeService.cs",
+              "ToolTip": "E:\\Masa\u00FCst\u00FC\\Shos_Api\\Shosh.Service\\IService\\ILikeService.cs",
+              "RelativeToolTip": "..\\Shosh.Service\\IService\\ILikeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:47:00.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Entry.cs",
+              "DocumentMoniker": "E:\\Masa\u00FCst\u00FC\\Shos_Api\\Shosh.Core\\Entities\\Entry.cs",
+              "RelativeDocumentMoniker": "..\\Shosh.Core\\Entities\\Entry.cs",
+              "ToolTip": "E:\\Masa\u00FCst\u00FC\\Shos_Api\\Shosh.Core\\Entities\\Entry.cs",
+              "RelativeToolTip": "..\\Shosh.Core\\Entities\\Entry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:44:23.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LikeService.cs",
+              "DocumentMoniker": "E:\\Masa\u00FCst\u00FC\\Shos_Api\\Shosh.Service\\Service\\LikeService.cs",
+              "RelativeDocumentMoniker": "..\\Shosh.Service\\Service\\LikeService.cs",
+              "ToolTip": "E:\\Masa\u00FCst\u00FC\\Shos_Api\\Shosh.Service\\Service\\LikeService.cs",
+              "RelativeToolTip": "..\\Shosh.Service\\Service\\LikeService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:32:17.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LikeRepository.cs",
+              "DocumentMoniker": "E:\\Masa\u00FCst\u00FC\\Shos_Api\\Shosh.Data\\Repository\\LikeRepository.cs",
+              "RelativeDocumentMoniker": "..\\Shosh.Data\\Repository\\LikeRepository.cs",
+              "ToolTip": "E:\\Masa\u00FCst\u00FC\\Shos_Api\\Shosh.Data\\Repository\\LikeRepository.cs",
+              "RelativeToolTip": "..\\Shosh.Data\\Repository\\LikeRepository.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAwwJ4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:32:10.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEntryService.cs",
+              "DocumentMoniker": "E:\\Masa\u00FCst\u00FC\\Shos_Api\\Shosh.Service\\IService\\IEntryService.cs",
+              "RelativeDocumentMoniker": "..\\Shosh.Service\\IService\\IEntryService.cs",
+              "ToolTip": "E:\\Masa\u00FCst\u00FC\\Shos_Api\\Shosh.Service\\IService\\IEntryService.cs",
+              "RelativeToolTip": "..\\Shosh.Service\\IService\\IEntryService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAvwBUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T12:50:00.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EntryDto.cs",
+              "DocumentMoniker": "E:\\Masa\u00FCst\u00FC\\Shos_Api\\Shosh.Service\\Dto\\EntryDto.cs",
+              "RelativeDocumentMoniker": "..\\Shosh.Service\\Dto\\EntryDto.cs",
+              "ToolTip": "E:\\Masa\u00FCst\u00FC\\Shos_Api\\Shosh.Service\\Dto\\EntryDto.cs",
+              "RelativeToolTip": "..\\Shosh.Service\\Dto\\EntryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T12:49:32.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TopicController.cs",
+              "DocumentMoniker": "E:\\Masa\u00FCst\u00FC\\Shos_Api\\Shosh.API\\Controllers\\TopicController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TopicController.cs",
+              "ToolTip": "E:\\Masa\u00FCst\u00FC\\Shos_Api\\Shosh.API\\Controllers\\TopicController.cs",
+              "RelativeToolTip": "Controllers\\TopicController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAkwC0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T12:48:42.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EntryRepository.cs",
+              "DocumentMoniker": "E:\\Masa\u00FCst\u00FC\\Shos_Api\\Shosh.Data\\Repository\\EntryRepository.cs",
+              "RelativeDocumentMoniker": "..\\Shosh.Data\\Repository\\EntryRepository.cs",
+              "ToolTip": "E:\\Masa\u00FCst\u00FC\\Shos_Api\\Shosh.Data\\Repository\\EntryRepository.cs",
+              "RelativeToolTip": "..\\Shosh.Data\\Repository\\EntryRepository.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAwwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T12:48:25.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EntryController.cs",
+              "DocumentMoniker": "E:\\Masa\u00FCst\u00FC\\Shos_Api\\Shosh.API\\Controllers\\EntryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EntryController.cs",
+              "ToolTip": "E:\\Masa\u00FCst\u00FC\\Shos_Api\\Shosh.API\\Controllers\\EntryController.cs",
+              "RelativeToolTip": "Controllers\\EntryController.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAIAwwJ0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T12:33:32.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EntryService.cs",
+              "DocumentMoniker": "E:\\Masa\u00FCst\u00FC\\Shos_Api\\Shosh.Service\\Service\\EntryService.cs",
+              "RelativeDocumentMoniker": "..\\Shosh.Service\\Service\\EntryService.cs",
+              "ToolTip": "E:\\Masa\u00FCst\u00FC\\Shos_Api\\Shosh.Service\\Service\\EntryService.cs",
+              "RelativeToolTip": "..\\Shosh.Service\\Service\\EntryService.cs",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAAAOEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T12:32:19.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ITopicService.cs",
+              "DocumentMoniker": "E:\\Masa\u00FCst\u00FC\\Shos_Api\\Shosh.Service\\IService\\ITopicService.cs",
+              "RelativeDocumentMoniker": "..\\Shosh.Service\\IService\\ITopicService.cs",
+              "ToolTip": "E:\\Masa\u00FCst\u00FC\\Shos_Api\\Shosh.Service\\IService\\ITopicService.cs",
+              "RelativeToolTip": "..\\Shosh.Service\\IService\\ITopicService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T12:32:00.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TopicService.cs",
+              "DocumentMoniker": "E:\\Masa\u00FCst\u00FC\\Shos_Api\\Shosh.Service\\Service\\TopicService.cs",
+              "RelativeDocumentMoniker": "..\\Shosh.Service\\Service\\TopicService.cs",
+              "ToolTip": "E:\\Masa\u00FCst\u00FC\\Shos_Api\\Shosh.Service\\Service\\TopicService.cs",
+              "RelativeToolTip": "..\\Shosh.Service\\Service\\TopicService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T12:31:38.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ITopicRepository.cs",
+              "DocumentMoniker": "E:\\Masa\u00FCst\u00FC\\Shos_Api\\Shosh.Data\\IRepository\\ITopicRepository.cs",
+              "RelativeDocumentMoniker": "..\\Shosh.Data\\IRepository\\ITopicRepository.cs",
+              "ToolTip": "E:\\Masa\u00FCst\u00FC\\Shos_Api\\Shosh.Data\\IRepository\\ITopicRepository.cs",
+              "RelativeToolTip": "..\\Shosh.Data\\IRepository\\ITopicRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T12:30:54.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TopicRepository.cs",
+              "DocumentMoniker": "E:\\Masa\u00FCst\u00FC\\Shos_Api\\Shosh.Data\\Repository\\TopicRepository.cs",
+              "RelativeDocumentMoniker": "..\\Shosh.Data\\Repository\\TopicRepository.cs",
+              "ToolTip": "E:\\Masa\u00FCst\u00FC\\Shos_Api\\Shosh.Data\\Repository\\TopicRepository.cs",
+              "RelativeToolTip": "..\\Shosh.Data\\Repository\\TopicRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T12:30:16.453Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

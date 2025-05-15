@@ -1,0 +1,12 @@
+E:\Masaüstü\Shos_Api\Shosh.Core\bin\Debug\net8.0\Shosh.Core.deps.json
+E:\Masaüstü\Shos_Api\Shosh.Core\bin\Debug\net8.0\Shosh.Core.dll
+E:\Masaüstü\Shos_Api\Shosh.Core\bin\Debug\net8.0\Shosh.Core.pdb
+E:\Masaüstü\Shos_Api\Shosh.Core\obj\Debug\net8.0\Shosh.Core.csproj.AssemblyReference.cache
+E:\Masaüstü\Shos_Api\Shosh.Core\obj\Debug\net8.0\Shosh.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Masaüstü\Shos_Api\Shosh.Core\obj\Debug\net8.0\Shosh.Core.AssemblyInfoInputs.cache
+E:\Masaüstü\Shos_Api\Shosh.Core\obj\Debug\net8.0\Shosh.Core.AssemblyInfo.cs
+E:\Masaüstü\Shos_Api\Shosh.Core\obj\Debug\net8.0\Shosh.Core.csproj.CoreCompileInputs.cache
+E:\Masaüstü\Shos_Api\Shosh.Core\obj\Debug\net8.0\Shosh.Core.dll
+E:\Masaüstü\Shos_Api\Shosh.Core\obj\Debug\net8.0\refint\Shosh.Core.dll
+E:\Masaüstü\Shos_Api\Shosh.Core\obj\Debug\net8.0\Shosh.Core.pdb
+E:\Masaüstü\Shos_Api\Shosh.Core\obj\Debug\net8.0\ref\Shosh.Core.dll
